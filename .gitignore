@@ -1,0 +1,14 @@
+config/.env
+logs/
+__pycache__/
+*.pyc
+.venv/
+*.jpg
+!modules/*.jpg
+*.log
+.DS_Store
+# interne Arbeitsdateien (nicht im öffentlichen Repo)
+.mcp.json
+.sysy-project.json
+.claude/
+CLAUDE.md
